@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548662508346",
+    "project_id": "streamnow-e60a6",
+    "storage_bucket": "streamnow-e60a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548662508346:android:d29f4ad2142a63efe22e03",
+        "android_client_info": {
+          "package_name": "com.example.upload_movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRItTW6bnccftr6KT59AyrIFRJ03yMjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
